@@ -1,0 +1,7 @@
+# CocoaPodsRepro document generator jazzy settings
+
+copyright: Copyright 2019 CocoaPodsRepro
+author: Rogerio de Paula Assis
+xcodebuild_arguments: [-target, CocoaPodsRepro-iOS]
+clean: true
+output: ./Documentation
